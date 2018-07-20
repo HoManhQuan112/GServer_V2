@@ -1,0 +1,121 @@
+
+16:41:55 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:41:55 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:41:55 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:41:55 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:41:56 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:41:56 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:41:56 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:41:56 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:41:56 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:41:56 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:41:57 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:41:57 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:41:57 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:41:57 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:41:57 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:41:58 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:41:58 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:41:58 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:41:58 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:41:58 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:41:59 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:41:59 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:41:59 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:41:59 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:00 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:00 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:00 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:01 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:01 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:02 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:02 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:03 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:03 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:03 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:03 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:04 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:04 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:04 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:04 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:04 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:05 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:05 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:05 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:05 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:05 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:06 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:06 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:06 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:06 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:06 19-05-2018 
+GMT+0700 chatting: Error in the query 13
+16:42:07 19-05-2018 
+GMT+0700 guildmanager: Error in query 75
+16:42:07 19-05-2018 
+GMT+0700 guildmanager: Error in query 72
+16:42:07 19-05-2018 
+GMT+0700 guildmanager: Error in query 81
+16:42:07 19-05-2018 
+GMT+0700 guildmanager: Error in query 77
+16:42:07 19-05-2018 
+GMT+0700 chatting: Error in the query 13

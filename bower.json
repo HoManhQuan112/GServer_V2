@@ -1,0 +1,21 @@
+{
+  "name": "bowernode",
+  "description": "bower node setup",
+  "main": "index.js",
+  "authors": [
+    "dungphi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "123456@A"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

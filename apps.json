@@ -1,0 +1,54 @@
+// {
+//   "apps": [
+//     {
+//       "name": "server nginx",
+//       "script": "./index.js",
+//       "instances": 1,
+//       "exec_mode": "fork",
+//       "env": {
+//         "NODE_ENV": "development",
+//         "PORT": "8080",
+//       }
+//     },
+//     {
+//       "name": "server node.js",
+//       "script": "./index.js",
+//       "instances": 1,
+//       "exec_mode": "cluster",
+//       "env": {
+//         "NODE_ENV": "production",
+//         "PORT": "9090",
+//       }
+//     }
+//   ]
+// }
+
+// {
+//   "apps": [
+//     {
+//       "name": "server nginx",
+//       "script": "./index.js",
+//       "instances": 1,
+//       "exec_mode": "fork",
+//       "env": {
+//         "NODE_ENV": "development",
+//         "PORT": "8080",
+//       }
+//     }
+//   ]
+// }
+
+{
+  "apps": [
+    {
+      "name": "server node.js",
+      "script": "./index.js",
+      "instances": 1,
+      "exec_mode": "cluster",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": "9090",
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+2017-10-05 11:42:55 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-05 11:42:55 - Started 2744
+2017-10-05 11:44:46 - Stopping helloworld.exe
+2017-10-05 11:44:46 - ProcessKill 2744
+2017-10-05 11:44:46 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-05 11:45:08 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-05 11:45:08 - Started 2324
+2017-10-05 17:29:40 - Stopping helloworld.exe
+2017-10-05 17:29:40 - ProcessKill 2324
+2017-10-05 17:29:40 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-06 07:39:23 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-06 07:39:23 - Started 2184
+2017-10-06 07:47:43 - Stopping helloworld.exe
+2017-10-06 07:47:43 - ProcessKill 2184
+2017-10-06 07:47:43 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-06 07:54:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-06 07:54:25 - Started 1820
+2017-10-06 17:30:39 - Stopping helloworld.exe
+2017-10-06 17:30:39 - ProcessKill 1820
+2017-10-06 17:30:39 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 07:38:27 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 07:38:27 - Started 2432
+2017-10-07 11:59:41 - Stopping helloworld.exe
+2017-10-07 11:59:41 - ProcessKill 2432
+2017-10-07 11:59:41 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 12:00:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:00:06 - Started 2064
+2017-10-07 12:11:44 - Stopping helloworld.exe
+2017-10-07 12:11:44 - ProcessKill 2064
+2017-10-07 12:11:44 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 12:12:10 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:12:10 - Started 2056
+2017-10-07 12:15:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:15:40 - Started 496
+2017-10-07 12:22:08 - Stopping helloworld.exe
+2017-10-07 12:22:08 - ProcessKill 496
+2017-10-07 12:22:08 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 12:22:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:22:34 - Started 2468
+2017-10-07 13:34:26 - Stopping helloworld.exe
+2017-10-07 13:34:26 - ProcessKill 2468
+2017-10-07 13:34:26 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 13:35:12 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 13:35:12 - Started 2360
+2017-10-07 17:31:39 - Stopping helloworld.exe
+2017-10-07 17:31:39 - ProcessKill 2360
+2017-10-07 17:31:39 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-09 07:39:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-09 07:39:09 - Started 2220
+2017-10-09 17:31:00 - Stopping helloworld.exe
+2017-10-09 17:31:00 - ProcessKill 2220
+2017-10-09 17:31:00 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-10 07:38:16 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-10 07:38:16 - Started 1936
+2017-10-10 17:32:36 - Stopping helloworld.exe
+2017-10-10 17:32:36 - ProcessKill 1936
+2017-10-10 17:32:36 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-11 07:36:56 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-11 07:36:56 - Started 2336
+2017-10-11 07:51:41 - Stopping helloworld.exe
+2017-10-11 07:51:41 - ProcessKill 2336
+2017-10-11 07:51:41 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-11 07:53:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-11 07:53:15 - Started 2052
+2017-10-11 08:04:01 - Stopping helloworld.exe
+2017-10-11 08:04:01 - ProcessKill 2052
+2017-10-11 08:04:01 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-11 08:04:27 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-11 08:04:27 - Started 2380
+2017-10-11 17:30:31 - Stopping helloworld.exe
+2017-10-11 17:30:31 - ProcessKill 2380
+2017-10-11 17:30:31 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-12 07:36:07 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-12 07:36:07 - Started 2364
+2017-10-12 17:30:13 - Stopping helloworld.exe
+2017-10-12 17:30:13 - ProcessKill 2364
+2017-10-12 17:30:14 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-13 07:42:20 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-13 07:42:20 - Started 436
+2017-10-13 17:31:33 - Stopping helloworld.exe
+2017-10-13 17:31:33 - ProcessKill 436
+2017-10-13 17:31:33 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-14 07:41:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-14 07:41:09 - Started 572
+2017-10-14 16:21:15 - Stopping helloworld.exe
+2017-10-14 16:21:15 - ProcessKill 572
+2017-10-14 16:21:15 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-16 07:34:00 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-16 07:34:00 - Started 1180
+2017-10-16 07:36:32 - Stopping helloworld.exe
+2017-10-16 07:36:32 - ProcessKill 1180
+2017-10-16 07:36:32 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-16 07:38:18 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-16 07:38:18 - Started 1884
+2017-10-16 16:58:14 - Stopping helloworld.exe
+2017-10-16 16:58:14 - ProcessKill 1884
+2017-10-16 16:58:14 - Found child process: 2212 Name: node.exe
+2017-10-16 16:58:14 - Found child process: 4508 Name: node.exe
+2017-10-16 16:58:14 - Stopping process 4508
+2017-10-16 16:58:14 - Send SIGINT 4508
+2017-10-16 16:58:44 - SIGINT to 4508 failed - Killing as fallback
+2017-10-16 16:58:44 - Stopping process 2212
+2017-10-16 16:58:44 - Send SIGINT 2212
+2017-10-16 16:58:44 - SIGINT to 2212 failed - Killing as fallback
+2017-10-16 16:58:44 - Stopping process 1884
+2017-10-16 16:58:44 - Send SIGINT 1884
+2017-10-16 16:58:44 - SIGINT to 1884 failed - Killing as fallback
+2017-10-16 16:58:44 - Finished helloworld.exe

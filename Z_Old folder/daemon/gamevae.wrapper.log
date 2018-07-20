@@ -1,0 +1,124 @@
+2017-10-05 11:39:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-05 11:39:46 - Started 5828
+2017-10-05 11:42:27 - Stopping gamevae.exe
+2017-10-05 11:42:27 - ProcessKill 5828
+2017-10-05 11:42:27 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-05 11:42:54 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-05 11:42:54 - Started 556
+2017-10-05 11:44:46 - Stopping gamevae.exe
+2017-10-05 11:44:46 - ProcessKill 556
+2017-10-05 11:44:46 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-05 11:53:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-05 11:53:21 - Started 1280
+2017-10-05 17:29:40 - Stopping gamevae.exe
+2017-10-05 17:29:40 - ProcessKill 1280
+2017-10-05 17:29:40 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-06 07:39:23 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-06 07:39:23 - Started 2120
+2017-10-06 07:47:43 - Stopping gamevae.exe
+2017-10-06 07:47:43 - ProcessKill 2120
+2017-10-06 07:47:43 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-06 07:54:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-06 07:54:25 - Started 1692
+2017-10-06 17:30:39 - Stopping gamevae.exe
+2017-10-06 17:30:39 - ProcessKill 1692
+2017-10-06 17:30:39 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 07:38:27 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 07:38:27 - Started 2320
+2017-10-07 12:00:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:00:06 - Started 1784
+2017-10-07 12:11:44 - Stopping gamevae.exe
+2017-10-07 12:11:44 - ProcessKill 1784
+2017-10-07 12:11:44 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 12:12:10 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:12:10 - Started 1712
+2017-10-07 12:15:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:15:40 - Started 1460
+2017-10-07 12:22:08 - Stopping gamevae.exe
+2017-10-07 12:22:08 - ProcessKill 1460
+2017-10-07 12:22:08 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-10-07 12:22:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\HoangD\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "D:\NODEJS\game_server - 7-9 - Copy (5)\index.js" --log "Game VAE wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-10-07 12:22:34 - Started 2360
+2017-10-07 13:34:26 - Stopping gamevae.exe
+2017-10-07 13:34:26 - ProcessKill 2360
+2017-10-07 13:34:26 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
